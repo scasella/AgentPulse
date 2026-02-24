@@ -2,6 +2,8 @@
 
 A macOS menu bar app that gives you glanceable visibility into your Claude Code agent teams and tasks.
 
+![AgentPulse screenshot](screenshot.png)
+
 ## Why it exists
 
 Claude Code agent teams store their state in `~/.claude/teams/` and `~/.claude/tasks/` as JSON files. There's no native way to see team members, task progress, or blocked work without switching to the terminal and pressing Ctrl+T. AgentPulse surfaces all of this in a single menu bar click.

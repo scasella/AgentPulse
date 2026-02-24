@@ -1,0 +1,7 @@
+# Compiled binaries
+AgentPulse
+*.app/
+.DS_Store
+*.o
+*.swp
+*~
